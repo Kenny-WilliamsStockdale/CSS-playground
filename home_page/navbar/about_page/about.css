@@ -17,3 +17,9 @@
     font-size: 20px;
     color: red;
 }
+
+.word {
+    text-align: center;
+    font-family: calibri;
+    margin: 20px 400px;
+}
